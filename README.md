@@ -1,2 +1,5 @@
-# hello-java02
-hello-java02 commit test01
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
